@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+git init we used to initialize a git repository.
+git is initialize to track the files whichever you want.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+staging area very diff bec it is the middle part actng as a mediator.
